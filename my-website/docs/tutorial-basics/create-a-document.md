@@ -51,7 +51,7 @@ Ces facteurs d'émission WTW sont divisés en deux catégories : 
 1. Du puits au réservoir (WWT) : Ces émissions comprennent toutes celles libérées depuis la source d'énergie ou le puits jusqu'au point d'utilisation du combustible. Cela inclut les émissions générées pendant l'extraction, le transport, la purification et le traitement du combustible, entre autres. Ces facteurs varient en fonction de la source d'énergie, de la région et des méthodes d'extraction, de traitement et de transport.  
 
 2. Du réservoir à la roue (TTW) : Les émissions TTW sont celles qui sont directement générées pendant la combustion.  
-Prendre en compte ces deux facteurs est essentiel pour obtenir une estimation précise et complète des émissions de gaz à effet de serre associées à l'utilisation des carburants, ce qui permet de prendre des décisions plus éclairées pour faire face aux impacts environnementaux du transport. Il est important de tenir compte de ces facteurs pour que les estimations des émissions soient valables pour différentes régions et pays.  
+Prendre en compte ces deux facteurs est essentiel pour obtenir une estimation précise et complète des émissions de gaz à effet de serre associées à l'utilisation des carburants, ce qui permet de prendre des décisions plus éclairées pour faire face aux impacts environnementaux du transport. Il est important de tenir compte de ces facteurs pour que les estimations des émissions soient valables pour différentes régions et pays. :
 
 
 
