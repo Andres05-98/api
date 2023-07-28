@@ -33,11 +33,9 @@ Il existe une large gamme de facteurs qui influent sur la consommation de carbur
 Ces facteurs sont cruciaux pour comprendre l'impact environnemental de la logistique des livraisons en dernière mile, et il est donc essentiel de les analyser un par un pour déterminer lesquels sont les plus importants et comment et dans quelle mesure ils influencent la consommation de carburant. Un exemple de cette analyse peut être effectué avec le graphique suivant estimé par (citation), qui montre la relation entre la consommation de carburant dans différents types de véhicules (légers (LD), moyens (MD) et lourds (HD)) :
 
 
-<img src="../../static/img/FC.png" alt="Texto alternativo" width="200" height="150">
+![FC](../../static/img/FC.png)
 
 
-
-[Insérer le graphique ici]
 
 Sur ce graphique, on constate que, pour tous les types de véhicules, à faible vitesse, la consommation de carburant est élevée et diminue à mesure que la vitesse augmente jusqu'à un certain point où elle augmente à nouveau.
 
